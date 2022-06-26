@@ -1052,3 +1052,159 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.26-16.28.20:378][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
 [2022.06.26-16.28.20:408][438]LogPlayLevel: Display: Destroying online subsystem :Context_2
 [2022.06.26-16.28.58:163][974]LogDerivedDataCache: C:/Users/adri_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.134 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.26-16.32.32:908][725]LogSlate: Took 0.013863 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.26-16.32.32:936][725]LogSlate: Took 0.010798 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.26-16.33.46:145][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.26-16.33.46:156][943]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.06.26-16.33.46:170][943]Cmd: MAP LOAD FILE="../../../../../Unreal_Engine/Unreal_Engine_Things/01_Warehouse_Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.26-16.33.46:170][943]LightingResults: New page: Diseñar la iluminación
+[2022.06.26-16.33.46:170][943]LoadErrors: New page: Cargando mapa: Minimal_Default.umap
+[2022.06.26-16.33.46:220][943]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.06.26-16.33.46:221][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.26-16.33.46:221][943]MapCheck: New page: Revisión del mapa
+[2022.06.26-16.33.46:221][943]LightingResults: New page: Diseñar la iluminación
+[2022.06.26-16.33.46:228][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.26-16.33.46:230][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.26-16.33.46:247][943]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.06.26-16.33.46:247][943]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.26-16.33.46:247][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.26-16.33.46:247][943]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.06.26-16.33.46:258][943]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.26-16.33.46:267][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.06.26-16.33.46:269][943]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.26-16.33.46:270][943]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,109ms to complete.
+[2022.06.26-16.33.46:270][943]LogFileHelpers: Loading map 'Minimal_Default' took 0.100
+[2022.06.26-16.33.47:886][ 80]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData
+[2022.06.26-16.33.55:748][746]LogSlate: Window 'StarterMap_BuiltData' being destroyed
+[2022.06.26-16.33.55:768][746]LogSlate: Window 'StarterMap_BuiltData' being destroyed
+[2022.06.26-16.33.59:033][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.06.26-16.33.59:568][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling should be resaved to improve async compilation performance.
+[2022.06.26-16.33.59:568][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:530][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:530][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:530][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:550][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Props/MaterialSphere.MaterialSphere should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:629][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:630][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:655][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_GlassWindow.SM_GlassWindow should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:656][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_PillarFrame.SM_PillarFrame should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:656][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300 should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:656][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_WindowFrame.SM_WindowFrame should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:656][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:656][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid should be resaved to improve async compilation performance.
+[2022.06.26-16.34.00:656][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere should be resaved to improve async compilation performance.
+[2022.06.26-16.34.01:232][ 31]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2022.06.26-16.34.01:232][ 31]Cmd: MAP LOAD FILE="../../../../../Unreal_Engine/Unreal_Engine_Things/01_Warehouse_Wreckage/WarehouseWreckage/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.26-16.34.01:232][ 31]LightingResults: New page: Diseñar la iluminación
+[2022.06.26-16.34.01:232][ 31]LoadErrors: New page: Cargando mapa: StarterMap.umap
+[2022.06.26-16.34.01:234][ 31]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.06.26-16.34.01:234][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.26-16.34.01:234][ 31]MapCheck: New page: Revisión del mapa
+[2022.06.26-16.34.01:234][ 31]LightingResults: New page: Diseñar la iluminación
+[2022.06.26-16.34.01:242][ 31]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.26-16.34.01:244][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.26-16.34.01:246][ 31]LogShaderCompilers: Display: ================================================
+[2022.06.26-16.34.01:246][ 31]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.26-16.34.01:246][ 31]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.26-16.34.01:246][ 31]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.26-16.34.01:246][ 31]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.26-16.34.01:246][ 31]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.26-16.34.01:246][ 31]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.26-16.34.01:246][ 31]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.26-16.34.01:246][ 31]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.26-16.34.01:246][ 31]LogShaderCompilers: Display: ================================================
+[2022.06.26-16.34.01:824][ 31]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.26-16.34.01:825][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.26-16.34.01:839][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.06.26-16.34.01:848][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.26-16.34.01:921][ 31]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2022.06.26-16.34.01:921][ 31]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.26-16.34.01:921][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.26-16.34.01:922][ 31]LogAIModule: Creating AISystem for world StarterMap
+[2022.06.26-16.34.01:954][ 31]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.26-16.34.01:966][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.06.26-16.34.01:972][ 31]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.26-16.34.01:972][ 31]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,158ms to complete.
+[2022.06.26-16.34.01:972][ 31]LogFileHelpers: Loading map 'StarterMap' took 0.740
+[2022.06.26-16.34.13:566][830]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.26-16.34.13:576][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.26-16.34.13:576][830]PIE: New page: Sesión PIE (reproducción en el editor): StarterMap (26 jun. 2022 20:34:13)
+[2022.06.26-16.34.13:599][830]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2022.06.26-16.34.13:619][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019598s)
+[2022.06.26-16.34.13:619][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.019718s)
+[2022.06.26-16.34.13:619][830]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.26-16.34.13:619][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.26-16.34.13:619][830]LogAIModule: Creating AISystem for world StarterMap
+[2022.06.26-16.34.13:620][830]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2022.06.26-16.34.13:629][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.26-16.34.13:629][830]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.26-16.34.13:629][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.26-16.34.13:629][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.26-16.34.13:629][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.26-16.34.13:629][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.26-16.34.13:629][830]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.26-16.34.13:629][830]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.26-16.34.13:629][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.26-16.34.13:629][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.26-16.34.13:630][830]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.26-16.34.13:630][830]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.26-16.34.13:630][830]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.26-16.34.13:632][830]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.26-16.34.13:662][830]LogAudioMixer: Display: Using Audio Hardware Device ROG PG248Q (NVIDIA High Definition Audio)
+[2022.06.26-16.34.13:662][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.26-16.34.13:662][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.26-16.34.13:662][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.26-16.34.13:663][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.06.26-16.34.13:663][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.06.26-16.34.13:665][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.06.26-16.34.13:665][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.06.26-16.34.13:665][830]LogInit: FAudioDevice initialized.
+[2022.06.26-16.34.13:665][830]LogAudio: Display: Audio Device (ID: 3) registered with world 'StarterMap'.
+[2022.06.26-16.34.13:676][830]LogLoad: Game class is 'GameModeBase'
+[2022.06.26-16.34.13:683][830]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2022.06.26-18.34.13
+[2022.06.26-16.34.13:684][830]LogWorld: Bringing up level for play took: 0.007844
+[2022.06.26-16.34.13:686][830]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.06.26-16.34.13:723][830]PIE: El servidor ha iniciado la sesión
+[2022.06.26-16.34.13:724][830]PIE: Play in editor total start time 0,147 seconds.
+[2022.06.26-16.34.13:827][831]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.06.26-16.35.06:891][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.26-16.35.06:891][823]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2022.06.26-16.35.06:891][823]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.26-16.35.06:892][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.26-16.35.06:906][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.26-16.35.06:908][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.26-16.35.06:915][823]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.26-16.35.06:916][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.26-16.35.06:917][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.26-16.35.06:921][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.26-16.35.06:945][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.26-16.35.06:968][824]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.06.26-16.35.16:391][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.26-16.35.16:447][293]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.06.26-16.35.16:447][293]Cmd: MAP LOAD FILE="../../../../../Unreal_Engine/Unreal_Engine_Things/01_Warehouse_Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.26-16.35.16:447][293]LightingResults: New page: Diseñar la iluminación
+[2022.06.26-16.35.16:447][293]LoadErrors: New page: Cargando mapa: Minimal_Default.umap
+[2022.06.26-16.35.16:472][293]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.26-16.35.16:473][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.26-16.35.16:473][293]MapCheck: New page: Revisión del mapa
+[2022.06.26-16.35.16:473][293]LightingResults: New page: Diseñar la iluminación
+[2022.06.26-16.35.16:481][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.26-16.35.16:484][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.26-16.35.16:486][293]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.06.26-16.35.16:486][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.26-16.35.16:495][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.06.26-16.35.16:502][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.06.26-16.35.16:517][293]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.06.26-16.35.16:518][293]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.26-16.35.16:518][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.26-16.35.16:518][293]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.06.26-16.35.16:520][293]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.26-16.35.16:536][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.26-16.35.16:542][293]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.26-16.35.16:542][293]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,086ms to complete.
+[2022.06.26-16.35.16:542][293]LogFileHelpers: Loading map 'Minimal_Default' took 0.095
+[2022.06.26-16.36.52:244][821]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.26-16.36.52:366][823]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2022.06.26-16.36.54:545][ 30]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2022.06.26-16.36.54:567][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.26-16.36.56:231][ 30]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
