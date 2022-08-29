@@ -1856,3 +1856,12 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.29-14.45.45:457][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.08.29-14.45.45:459][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2022.08.29-14.45.45:521][821]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.08.29-14.47.42:667][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.08.29-14.47.42:683][531]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2022.08.29-14.47.42:683][531]LogSavePackage: Moving '../../../../../Unreal_Engine/Unreal_Engine_Things/01_Warehouse_Wreckage/WarehouseWreckage/Saved/Main_Auto17878083D4CD35E1456DE0C8EB311505A.tmp' to '../../../../../Unreal_Engine/Unreal_Engine_Things/01_Warehouse_Wreckage/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto1.umap'
+[2022.08.29-14.47.42:689][531]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.030
+[2022.08.29-14.47.42:689][531]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2022.08.29-14.48.35:322][308]Cmd: TRANSACTION UNDO
+[2022.08.29-14.48.35:322][308]LogEditorTransaction: Undo Edit X
+[2022.08.29-14.48.35:781][321]Cmd: TRANSACTION UNDO
+[2022.08.29-14.48.35:781][321]LogEditorTransaction: Undo Edit Z
