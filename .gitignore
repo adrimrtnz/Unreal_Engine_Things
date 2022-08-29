@@ -75,3 +75,8 @@ DerivedDataCache/*
 
 # Starter content
 **/**/Content/StarterContent/**
+
+# As I'm using free assets, I don't want to upload too much to github
+# Packages: Industry Props Pack 6
+*.umap
+*.uasset
